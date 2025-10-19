@@ -4,7 +4,7 @@
         v-model = "title"
         class = "form-control"
         type="text"
-        placeholder="Search for movies, Series & more"
+        placeholder="영화 제목을 검색해주세요"
         @keyup.enter="apply" />
         
         <div class="selects">
