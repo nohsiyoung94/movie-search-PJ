@@ -128,7 +128,7 @@ export default{
         }
     }
     .btn {
-        width: 100%;
+        width: 30%;
     }
 }
 
