@@ -13,7 +13,7 @@
 
 <style lang="scss" scoped>
 .container {
-    padding-top: 40px;
+    padding-top: 60px;
 }
 h1 {
     line-height: 1;
